@@ -1,0 +1,40 @@
+body{
+	background-color:black;
+	color:white;
+	text-align:center;
+	margin:0;
+	padding:0;
+}
+img{
+	width: 100px;
+	border-radius: 15px;
+}
+a{
+	padding: 7px 20px;
+	text-decoration: none; 
+	background-color: lime;
+	color: black;
+}
+html{
+	scroll-behavior: smooth;
+}
+.pets{
+	vertical-align: top;
+	display: inline-block;
+	width: 18%;
+	text-align: center;
+	margin: 10px;
+}
+h1{
+	font-size:72px;
+}
+.header{
+	background-color:#03fce3;
+}
+h2{
+	color:#03fce3;
+}
+p{
+	color:#e6b812;
+	
+}
